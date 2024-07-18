@@ -1,0 +1,375 @@
+xview-source:https://fostonlinux-edxlinux-mate.org/faq/downloads/
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>
+        
+            Download Help | fostonliux e edxlinux MATE
+        
+    </title>
+<meta name="description" content="A community developed, Ubuntu based operating system that beautifully integrates the MATE desktop. Ubuntu MATE is a stable, easy-to-use operating system with...">
+<meta name="keywords" content>
+<meta name="author" content="fostonlinux e edxlinux MATE Team">
+<meta property="og:site_name" content="fostonlinux e edxlinux MATE">
+<meta property="og:title" content="
+        
+            Download Help | fostonlinux e edxlinux MATE
+        
+    ">
+<meta property="og:url" content="https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Fedxlinux%2Fedxlinux%2Farchive%2Frefs%2Fheads%2Fmain.zip%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR0fFkO7-nWdlH3QZn6lJIoeIj-Rq23U34JO-tyq79lPZfKS_6HoeILiYkI_aem_KJUl2gH7Jwxlk-XvUJNazw&h=AT0jt8YJ6yEIPiyCSvkW92lDJ7AEPpckDRw2v-CA-v9klZOiNMoRwJBB7k9K7wN2x9ZocM9nxMz7TrqPLwnMoXHCEZ9tnmlZ6E_zfvAw3xz3YjanaT-Dp-6Xcw8P&__tn__=-UK-R&c[0]=AT0Yw6K3TUEzBqzfB9_tV751idqLGQZ7tO-odGujjhIONWPa0n_f-bdGoQXyDJYBHlBjMw3tpaY0fhW3JYVU-5Rm7CtIj6NUB0kntDD_NjFiG7wSFFsfVxvNe5Zp4_6-Fq6lDGSly9klVV32IGaLeR9fSMxmmHxqMYRp0x1YUYS9_UFzw4M">
+<meta property="og:description" content="A community developed, Ubuntu based operating system that beautifully integrates the MATE desktop. Ubuntu MATE is a stable, easy-to-use operating system with...">
+<meta property="og:type" content="website">
+<meta property="og:image" content="/images/homepage/01_familiar.png">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@fostonlinux e edxlinux_mate">
+<meta name="twitter:creator" content="@fostonlinux e edxlinux_mate">
+<link rel="canonical" href="https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1SoUGohfxGQzH9Ieq5C-MchAukg7iwr7i%3Fusp%3Ddrive_link%26fbclid%3DIwZXh0bgNhZW0CMTAAAR0sfZJmFtecGd_TLzWhDnQ0F1F-XXf9aSWJccQvFWwhVY-Sz8ZYw_fSw9s_aem_-xMm_h3y3ldcnpcIhhXL2g&h=AT3nWhpuX70EwETWRLIEqSLKFI_3NadTJOZhNobHJyerpjgQzezP7vRYQlB1afvE2MqbDQiW0BvieAwFZvjhN4sQlOyKn5GKwZdG7UyLsRQA9Gggwc8nyWmfaFOi&__tn__=-UK-R&c[0]=AT3Wera4L9WwW1Y6fhfDvoj3_JKK_6Lb8NG33_pEKFEsHw_-43jyCdigcgI62cthIkBGFXXFZ_K6hoaz9lMRDDVso9pDDO2uwnpUYeG-0zWjUGl4lLqFXCkAJ-LoV2POIrPgtFWTMJnPPdQ5B749xPeAcOKgwMT8irdWu8rttUQUyeFZ9Iw">
+<link rel="alternate" type="application/rss+xml" title="Ubuntu MATE" href="/rss.xml">
+<link rel="manifest" href="/assets/favicon/manifest.json">
+<link rel="icon" type="image/x-icon" href="/assets/favicon/favicon.ico" />
+<meta name="application-name" content="fostonlinux e edxlinux" />
+<meta name="msapplication-TileColor" content="#87A556" />
+<meta name="msapplication-TileImage" content="/assets/favicon/144x144.png">
+<meta name="msapplication-config" content="/assets/favicon/browserconfig.xml">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/16x16.png">
+<link rel="apple-touch-icon" sizes="16x16" href="/assets/favicon/16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/32x32.png">
+<link rel="apple-touch-icon" sizes="32x32" href="/assets/favicon/32x32.png">
+<link rel="icon" type="image/png" sizes="64x64" href="/assets/favicon/64x64.png">
+<link rel="apple-touch-icon" sizes="64x64" href="/assets/favicon/64x64.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/assets/favicon/96x96.png">
+<link rel="apple-touch-icon" sizes="96x96" href="/assets/favicon/96x96.png">
+<link rel="icon" type="image/png" sizes="144x144" href="/assets/favicon/144x144.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/assets/favicon/144x144.png">
+<link rel="icon" type="image/png" sizes="196x196" href="/assets/favicon/196x196.png">
+<link rel="apple-touch-icon" sizes="196x196" href="/assets/favicon/196x196.png">
+<link rel="icon" type="image/png" sizes="256x256" href="/assets/favicon/256x256.png">
+<link rel="apple-touch-icon" sizes="256x256" href="/assets/favicon/256x256.png">
+<link id="light-sheet" rel="stylesheet" href="/assets/ubuntu-mate.css">
+<link id="dark-sheet" rel="stylesheet" href="/assets/ubuntu-mate-dark.css" media="(prefers-color-scheme: dark)">
+<link rel="dns-prefetch" href="https://ubuntu-mate.community">
+<script type="application/ld+json">    {        "@context": "http://schema.org",        "@type": "BreadcrumbList",        "itemListElement": [            {                "@type": "ListItem",                "position": 1,                "item": {                    "@id": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1SoUGohfxGQzH9Ieq5C-MchAukg7iwr7i%3Fusp%3Ddrive_link%26fbclid%3DIwZXh0bgNhZW0CMTAAAR1S86atMEgcYXXtYxrgZ1ROquW42MGMvUrYIVFsvymfeByAYLdy1Cf8s_s_aem_E_uQKTNu0XqEliQbm82caA&h=AT3nWhpuX70EwETWRLIEqSLKFI_3NadTJOZhNobHJyerpjgQzezP7vRYQlB1afvE2MqbDQiW0BvieAwFZvjhN4sQlOyKn5GKwZdG7UyLsRQA9Gggwc8nyWmfaFOi&__tn__=-UK-R&c[0]=AT1adWvsERf5MmFQAskS-7mTcjsNPE2JIEBwMXA18FgsGU8W8kCLrvyMVZ3qL63iz_3--5BAfWTFOkV2poqsHqqPuUAYRpjXn5smTZa3fgL3sx_eM-bAoWC0kEArmBQhQy4B_eL0FEjOJZBGjieyCe9FjpWGtbnxc4qvjrYfSBOnpjFzRY8-mate.org",                    "name": "fostonlinux e edxlinux MATE"                }            }                                                                                                                                                                                                                ,{                    "@type": "ListItem",                    "position": 2,                    "item": {                        "@id": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2F...%2F1_dvaZN6uqQ_MpMncWAUlqV%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR3r2vxR4RfX7Y3XTlFErEWGPcNOtWGd15Pao2kssEM3mAZy7PnwYj05d38_aem_g93iCwYpN_JciKtRsKpNow&h=AT1G9UrggcK62HrqMiQ4JT8qElS87xfZNs-LT4IZH_AuAU9qIeY8eRvAdFYsqd1KynUMbSMkmL3JbOIQEWl6axRxrs1N7jdjZpJS2CEbIezezps7Y_7Gs3zHdXwK&__tn__=-UK-R&c[0]=AT16m-yaYHjx1ly8NrtWK846lfzzk8nwqZTz41aYdo-6dJrJ-rvUrskBCZ2dHZ8RSdBNt79bEOmBOnchqFTGvRUxfQntoTuAnmzfY3jFM97hD_5Dymj9GFl9hiFER-1WMMjOCUelBti49bCuJPf0onSIbJtYgu0zmFezT2sOjyyJp8y1Sl6nHhI2NcmpRjrvMVyE5MDu198/faq/",                        "name": "FAQs"                    }                }                                                                                                            ,{                    "@type": "ListItem",                    "position": 3,                    "item": {                        "@id": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1_dvaZN6uqQ_MpMncWAUlqV-2oQ5pcFyD%3Fusp%3Ddrive_link%26fbclid%3DIwZXh0bgNhZW0CMTAAAR0b7kVWQZDtJIHoUebdQDxeBe9yakLc5AmYYBQGdVmXCjB0X8zVH13vq48_aem_T29GFzvEXAkMrGUVzNZfFA&h=AT3lehCAgDd4jITnIvj7SE_BNcMIhqsTzpSVbK0fGKdPWY2mX0PHX8yfoq34ph7dZoPFNToNgOecG_YhtJyQvEd8QWwG8Lv6UrvQ0DqoESe60kRl42PbL-PHc_rM&__tn__=-UK-y-R&c[0]=AT16m-yaYHjx1ly8NrtWK846lfzzk8nwqZTz41aYdo-6dJrJ-rvUrskBCZ2dHZ8RSdBNt79bEOmBOnchqFTGvRUxfQntoTuAnmzfY3jFM97hD_5Dymj9GFl9hiFER-1WMMjOCUelBti49bCuJPf0onSIbJtYgu0zmFezT2sOjyyJp8y1Sl6nHhI2NcmpRjrvMVyE5MDu198",                        "name": "Download Help"                    }                }                    ]    }</script>
+</head>
+<body>
+<script>
+        // For browsers that do not support dark mode via CSS.
+        if (localStorage.getItem("dark") == "true") {
+            document.getElementById("dark-sheet").media = "";
+        }
+    </script>
+<header class="site-header" role="banner">
+<div class="container">
+<div class="row">
+<div class="col">
+<input id="i18n-chooser" class="dropdown-trigger" type="checkbox" style="display:none" onchange="dropdown_modal(this)" />
+<ul class="nav left">
+
+<li>
+<a class="nav-logo" href=" /" title="Home Page">
+<img src="/images/fostonlinux-mate/logo-white.svg" alt="edxlinux MATE Logo" />
+</a>
+</li>
+<input id="primary-mobile-only-toggle" class="dropdown-trigger" type="checkbox" style="display:none" onchange="dropdown_modal(this)" />
+
+<ul class="primary-nav">
+<li>
+<a class="nav-btn " href="/about/">About</a>
+</li>
+<li>
+<a class="nav-btn " href="/features/">Features</a>
+</li>
+<li>
+<a class="nav-btn " href="/blog/">Blog</a>
+</li>
+<li>
+<a class="nav-btn " href="/download/">Download</a>
+</li>
+<li>
+<a class="nav-btn " href="/support/">Support</a>
+</li>
+<li>
+<a class="nav-btn " href="/get-involved/">Get Involved</a>
+</li>
+<li>
+<a class="nav-btn " href="/shop/">Emporium</a>
+</li>
+<li>
+<a class="nav-btn " href="/funding/">Funding</a>
+</li>
+</ul>
+
+<ul class="i18n-dropdown">
+<li>
+<a class="nav-btn checked" href="/faq/downloads/">English</a>
+</li>
+<li>
+<a class="nav-btn " href="/fr/faq/downloads/">Français</a>
+</li>
+<li>
+<a class="nav-btn " href="/ru/faq/downloads/">Русский</a>
+</li>
+</ul>
+
+<li class="nav-push-right">
+<a class="nav-btn" href="/search/" title="Search">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z" /></svg>
+</a>
+</li>
+
+<li>
+<label id="i18n-chooser-mobile" class="mobile-only nav-btn" for="i18n-chooser" title="Change Language: English" role="button" tabindex="0">
+en
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z" /></svg>
+</label>
+<label class="nav-btn i18n-btn dropdown-btn mobile-hidden" for="i18n-chooser" title="Change Language: English" role="button" tabindex="0">
+English
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z" /></svg>
+</label>
+</li>
+
+<li class="mobile-only">
+<label id="primary-nav-mobile" class="nav-btn" for="primary-mobile-only-toggle" role="button" tabindex="0">
+<svg id="svg4" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 24 24"><path id="path2" style="stroke-width:.043822" d="m22.094 3.5575h-20.188c-.4983 0-.906.3999-.906.8886v1.7774c0 .4888.4077.8887.9060.8887h20.188c.498 0 .906-0.4.906-.8887v-1.7774c0-.4887-.408-.8886-.906-.8886zm0 13.33h-20.188c-.4983 0-.906 0.4-.906.889v1.7773c0 .48879.40772.88867.90602.88867h20.188c.498 0 .906-0.4.906-.889v-1.7773c0-.48879-.40772-.88866-.90602-.88866zm0-6.6653h-20.188c-.4983 0-.906.399-.906.888v1.7773c0 .48878.40772.88866.90602.88866h20.188c.498 0 .906-0.4.906-.888v-1.7773c0-.48878-.40772-.88866-.90602-.88866z" /></svg>
+</label>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</header>
+<div id="site-header-block"></div>
+<main class="page-content" aria-label="Content">
+<article class="page">
+<div class="container sidebar-container">
+<div class="row">
+<header class="page-header col">
+<h1 class="page-title">Download Help</h1>
+</header>
+</div>
+<div class="row sidebar-view">
+<input id="sidebar-collapsed" type="checkbox" style="appearance:none;display:none" />
+<div class="col sidebar">
+<div class="sidebar-wrapper">
+<div class="sidebar-title">
+The Project
+</div>
+<a class="sidebar-link " href="/faq/project/">
+<img src="/images/ubuntu-mate/logo.svg" alt />
+<span>Project Questions</span>
+</a>
+<a class="sidebar-link " href="/faq/roadmap/">
+<img src="/images/Ambiant-MATE/applications-development.svg" alt />
+<span>Roadmap</span>
+</a>
+<div class="sidebar-title">
+Media Preparations
+</div>
+<a class="sidebar-link active" href="/faq/downloads/">
+<img src="/images/Ambiant-MATE/go-down.svg" alt />
+<span>What should I download?</span>
+</a>
+<a class="sidebar-link " href="/faq/verify-download-quick/">
+<img src="/images/Ambiant-MATE/preview-file-24.svg" alt />
+<span>Verify for Corruption</span>
+</a>
+<a class="sidebar-link " href="/faq/verify-download-secure/">
+<img src="/images/Ambiant-MATE/lpi-bug.svg" alt />
+<span>Verify for Tampering</span>
+</a>
+<a class="sidebar-link " href="/faq/usb-image/">
+<img src="/images/Ambiant-MATE/drive-removable-media-usb-24.svg" alt />
+<span>Imaging a USB Drive</span>
+</a>
+<a class="sidebar-link " href="/faq/burn-disc/">
+<img src="/images/Ambiant-MATE/media-optical-24.svg" alt />
+<span>Burning to DVD</span>
+</a>
+<label for="sidebar-collapsed" class="sidebar-toggle" title="Expand/Collapse Sidebar">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M34.52 239.03L228.87 44.69c9.37-9.37 24.57-9.37 33.94 0l22.67 22.67c9.36 9.36 9.37 24.52.04 33.9L131.49 256l154.02 154.75c9.34 9.38 9.32 24.54-.04 33.9l-22.67 22.67c-9.37 9.37-24.57 9.37-33.94 0L34.52 272.97c-9.37-9.37-9.37-24.57 0-33.94z" /></svg>
+</label>
+<div class="sidebar-border"></div>
+</div>
+</div>
+<content class="page-content col page-has-sidebar">
+<h1 id="what-should-i-download">What should I download?</h1>
+<p>This page aims to address common questions for new users.</p>
+<nav class="toc">
+<h4>Table of Contents</h4>
+<ul id="markdown-toc">
+<li><a href="#what-should-i-download" id="markdown-toc-what-should-i-download">What should I download?</a> <ul>
+<li><a href="#which-architecture" id="markdown-toc-which-architecture">Which architecture?</a></li>
+<li><a href="#which-release" id="markdown-toc-which-release">Which release?</a></li>
+<li><a href="#which-download-method" id="markdown-toc-which-download-method">Which download method?</a> <ul>
+<li><a href="#bittorrent" id="markdown-toc-bittorrent">BitTorrent</a></li>
+<li><a href="#direct-download" id="markdown-toc-direct-download">Direct Download</a></li>
+</ul>
+</li>
+<li><a href="#can-i-order-a-disc-or-usb-drive" id="markdown-toc-can-i-order-a-disc-or-usb-drive">Can I order a disc or USB drive?</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+<h2 id="which-architecture">Which architecture?</h2>
+<ul>
+<li>
+<p><strong>amd64</strong> is for a desktop or laptop computer built around 2005 and later.
+While the name may suggest otherwise, this supports both AMD and Intel processors
+capable of 64-bit instructions, BIOS and UEFI motherboards
+as well as PC/Mac computers.</p>
+</li>
+<li>
+<p><strong>i386</strong> has been discontinued and will no longer receive updates after April 2021.
+This one runs on any 32-bit PC or Intel Mac.</p>
+</li>
+<li>
+<p><strong>armhf</strong> is for the Raspberry Pi and other compatible microcomputers.
+This one is 32-bit, but is recommended.</p>
+</li>
+<li>
+<p><strong>arm64</strong> is the 64-bit version ideal for users that intend to run complex
+applications that will benefit from a 64-bit instruction set.</p>
+</li>
+</ul>
+<p><strong>Historic</strong></p>
+<ul>
+<li><strong>powerpc</strong> is for non-Intel Macs before 2006 and compatible IBM PowerPC
+machines. New downloads for these are no longer available.</li>
+</ul>
+<p><strong>Ubuntu MATE Exclusive</strong></p>
+<ul>
+<li>
+<p>If you have an ultra mobile PC (UMPC), like certain GPD branded
+models or a Topjoy Falcon, we have builds designed specifically for that
+hardware.</p>
+<p>More details can be <a href="/ports/umpcs/">found on our UMPC page</a>.</p>
+</li>
+</ul>
+<h2 id="which-release">Which release?</h2>
+<ul>
+<li>
+<p>Choose an <strong>LTS</strong> (Long Term Release) if you prefer <strong>stability</strong>. These are supported for
+<strong>3 years</strong> with a new upgrade available every <strong>2 years</strong>.</p>
+</li>
+<li>
+<p>Choose a <strong>non-LTS</strong> (interim) release if you like the <strong>latest features</strong>.
+These are released more frequently (every 6 months) but are only supported for
+9 months.</p>
+</li>
+</ul>
+<p>Both releases equally receive security updates provided by the Ubuntu team.
+You may upgrade from an LTS to a non-LTS releases by changing your preferences in
+the <strong>Software &amp; Updates</strong> application.</p>
+<h2 id="which-download-method">Which download method?</h2>
+<h3 id="bittorrent">BitTorrent</h3>
+<p>Instead of downloading from one source, BitTorrent retrieves and verifies the
+file from many computers. This can help save bandwidth costs for the host, be
+paused/resumed and in many cases achieve faster download speeds.</p>
+<p>If you already have a BitTorrent client installed, a <strong>magnet link</strong> will
+open it automatically.</p>
+<h3 id="direct-download">Direct Download</h3>
+<p>This is your standard download straight from the server to your browser (over
+HTTP/S). It is <a href="/faq/verify-download-quick/">recommended to verify the download</a>
+using the provided checksum afterwards to be sure it was downloaded in one piece.</p>
+<h2 id="can-i-order-a-disc-or-usb-drive">Can I order a disc or USB drive?</h2>
+<p>Unfortunately, we do not have any suppliers to provide this service.</p>
+</content>
+<label id="sidebar-invisible" for="sidebar-collapsed"></label>
+</div>
+</div>
+</article>
+</main>
+<footer class="site-footer">
+<div class="container">
+<div class="row">
+<div class="col-md-12 col-lg-6">
+<p>&copy; 2014-2024 Ubuntu MATE Team</p>
+<p class="dim">
+An official flavour of the Ubuntu family. <a href="https://www.ubuntu.com" rel="external">Ubuntu</a> is a trademark of <a href="https://www.canonical.com" rel="external">Canonical Ltd.</a>
+</p>
+<p class="site-chooser-wrapper">
+<a class="site-chooser active" href="https://ubuntu-mate.org">ubuntu-mate.org</a>
+<a class="site-chooser" href="https://ubuntu-mate.community">ubuntu-mate.community</a>
+<a class="site-chooser" href="https://guide.ubuntu-mate.org">guide.ubuntu-mate.org</a>
+</p>
+</div>
+<div class="col-md-12 col-lg-6 text-right">
+<div class="footer-links">
+<noscript>
+                        <style>
+                            #dark-toggle {
+                                display: none;
+                            }
+                        </style>
+                    </noscript>
+<a id="dark-toggle" tabindex="0" onclick="toggle_dark(); event.preventDefault();">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M283.211 512c78.962 0 151.079-35.925 198.857-94.792 7.068-8.708-.639-21.43-11.562-19.35-124.203 23.654-238.262-71.576-238.262-196.954 0-72.222 38.662-138.635 101.498-174.394 9.686-5.512 7.25-20.197-3.756-22.23A258.156 258.156 0 0 0 283.211 0c-141.309 0-256 114.511-256 256 0 141.309 114.511 256 256 256z" /></svg>
+<span id="str-light">Light Mode</span>
+<span id="str-dark">Dark Mode</span>
+</a>
+<a class="link-with-icon" href="/raspberry-pi/">
+<svg id="svg891" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="128" width="128" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 33.866665 33.866666">
+<metadata id="metadata888">
+<rdf:RDF>
+<cc:Work rdf:about>
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+<dc:title/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<g id="layer1" transform="translate(-145.49 -253.61)">
+<path id="path2" style="stroke-width:.047318" d="m156.34 253.61c-.17129.005-.35583.0686-.56497.23363-.51245-.19762-1.0093-.26626-1.4536.13604-.6861-.089-.90906.0947-1.078.30904-.15061-.003-1.127-.15482-1.5748.51311-1.1253-.13315-1.4809.66188-1.0779 1.4032-.22982.35578-.46797.70726.0695 1.3855-.19012.37778-.0723.78778.37556 1.2837-.1182.53091.11413.90566.53086 1.1976-.0779.7268.66642 1.1493.88867 1.2998.0854.4235.26322.82286 1.1134 1.0438.14043.63121.65099.74004 1.1459.87253-1.6353.95061-3.0377 2.2012-3.0283 5.2698l-.23953.42727c-1.8752 1.1408-3.5623 4.806-.92415 7.7852.17228.93263.46129 1.6026.71861 2.3441.38488 2.9872 2.8965 4.3859 3.559 4.551.97095.73958 2.0048 1.4413 3.404 1.9329 1.3192 1.3604 2.7482 1.8785 4.1848 1.878.0208-.00053.0426 0 .0634 0 1.437.00053 2.8656-.51766 4.1848-1.878 1.3992-.49163 2.4331-1.1934 3.404-1.9329.66245-.16514 3.1741-1.5638 3.5592-4.551.25693-.74146.54604-1.4115.71828-2.3441 2.6384-2.9791.95108-6.6443-.92411-7.7852l-.23943-.42727c.01-3.0686-1.393-4.3192-3.0283-5.2698.49494-.13249 1.006-.24132 1.146-.87253.85029-.22097 1.0282-.62033 1.1134-1.0438.22239-.15047.9667-.57301.88862-1.2998.41687-.29195.6492-.6667.53091-1.1976.44762-.49589.56591-.90589.3757-1.2837.53752-.67825.29905-1.0297.0696-1.3855.40267-.74137.0473-1.5364-1.0784-1.4032-.44762-.66793-1.4238-.51623-1.5747-.51311-.16892-.21439-.39179-.39803-1.0779-.30904-.44431-.4023-.94115-.33366-1.4536-.13604-.6085-.48018-1.0112-.0953-1.4711.0503-.73673-.24074-.90518.089-1.2672.22328-.80345-.16978-1.0476.19987-1.4328.59001l-.44809-.009c-1.2118.71416-1.8142 2.1684-2.0271 2.9159-.21387-.74771-.81433-2.2019-2.0261-2.9159l-.4481.009c-.38517-.39014-.62932-.75978-1.4328-.59001-.36198-.13427-.52995-.46402-1.2672-.22328-.30189-.0955-.57964-.29405-.90613-.2839zm.0426.85772c.61513.22793.93216.5222 1.2662.81273.11309-.15269.28722-.26465.0767-.63306.43721.25187.76607.5486 1.0098.8811.27019-.17214.16088-.4075.1623-.62445.45425.36936.74242.76247 1.0949 1.1463.0714-.0517.13344-.22712.18832-.50469 1.0836 1.051 2.6143 3.6982.39369 4.7478-1.8889-1.5586-4.146-2.6916-6.6472-3.5415 3.2152 1.6578 5.0843 2.9988 6.1082 4.1405-.52428 2.1018-3.2602 2.1974-4.2605 2.1388.20488-.0956.3757-.20962.43627-.38517-.25079-.17838-1.1408-.0185-1.7621-.36765.23848-.0497.35015-.098.46182-.27397-.58674-.18691-1.2194-.34826-1.591-.65866.20067.002.38824.0449.6499-.13675-.52555-.28343-1.0865-.50772-1.5224-.94115.27184-.007.56497-.002.65014-.10267-.48121-.29811-.88725-.6298-1.2233-.99225.38044.0459.54108.007.63307-.0596-.36378-.37287-.82423-.68753-1.0438-1.1466.28248.0973.54098.13457.72722-.009-.12359-.27889-.65326-.44332-.95818-1.095.29739.0289.61276.0649.67588 0-.1383-.56251-.37508-.87869-.60736-1.2062.63642-.009 1.6006.003 1.5569-.0513l-.39349-.4021c.62161-.16737 1.2578.0269 1.7197.17105.20725-.16358-.004-.37045-.25693-.58168.52853.0705 1.006.19192 1.4375.35924.23044-.20815-.14999-.4163-.33406-.62445.81623.15482 1.1621.37239 1.5056.59024.24936-.23896.0147-.44209-.15379-.65015zm12.149 0c-.16845.20806-.40362.41119-.15426.65014.344-.21785.68942-.43541 1.5056-.59023-.18407.20815-.56403.41629-.33359.62445.43153-.16732.90897-.28869 1.4375-.35924-.25315.21123-.46419.4181-.25694.58168.46182-.14418 1.0978-.33842 1.7195-.17106l-.39368.40211c-.0435.0538.9208.0418 1.5572.0513-.23233.32753-.46939.64371-.60756 1.2062.0629.0649.37854.0289.67617 0-.3052.65166-.83468.81608-.95818 1.095.18595.14319.44431.10595.7268.009-.21956.45903-.67948.77369-1.0434 1.1466.0918.0663.25267.10552.6331.0596-.33642.36246-.74241.69415-1.2236.99225.0852.10032.37854.0961.65014.10268-.43579.43343-.99697.65772-1.5227.94115.26214.1817.44952.13911.65015.13674-.37192.31041-1.0041.47176-1.5913.65867.11167.17602.22334.22428.46229.27396-.62128.34921-1.5113.18927-1.7626.36766.0606.17555.23139.28958.43627.38517-1.0003.0587-3.7357-.0369-4.26-2.1388 1.024-1.1418 2.893-2.4828 6.1082-4.1405-2.5017.84987-4.7583 1.9828-6.6472 3.5415-2.2206-1.0495-.68989-3.6966.39321-4.7478.0549.27776.11734.45316.18832.50488.35299-.38384.64115-.77695 1.0949-1.1463.001.21696-.10789.45231.16277.62445.24321-.3325.57254-.62922 1.0093-.8811-.21056.36842-.036.48037.0771.63307.33359-.29053.65062-.5848 1.2662-.81273zm-6.2899 8.6577c.0554-.0010.11072-.0010.16608.00042 1.5747-.0175 3.5242 1.1749 3.5166 2.2982-.007.9913-1.3694 1.7938-3.5043 1.7787-2.091-.0251-3.4991-1.0083-3.4939-1.9694.004-.76607 1.6022-2.0692 3.3155-2.108zm-5.0597.66813c.3104.002.6298.0293.95487.0842 1.0954.18406-5.2494 5.7245-5.3474 4.4885-.0888-2.8712 1.8638-4.5865 4.3925-4.5728zm10.125.0946c2.5286-.0137 4.4814 1.7015 4.3925 4.5728-.0975 1.2359-6.4428-4.3045-5.3474-4.4885.32507-.0549.64446-.0823.95487-.0842zm-1.0684 3.4404a4.0755 3.4541 55.966 0 1 .15094 .002 4.0755 3.4541 55.966 0 1 2.6824 7.2893 4.0755 3.4541 55.966 1 1 -4.4933 -6.8 4.0755 3.4541 55.966 0 1 1.6599 -.49116zm-7.7785.19116a3.4541 4.0755 34.034 0 1 1.8108 .48926 3.4541 4.0755 34.034 1 1 -4.4933 6.8 3.4541 4.0755 34.034 0 1 2.6824 -7.2893zm13.592 2.0839c.0483-.001.0994.006.15331.0204 2.8584 1.6324 2.3621 5.2646.82001 6.5047-1.358.6033-2.4714-6.5-.97332-6.5251zm-19.603.0946c1.4982.0251.38455 7.1284-.97342 6.5251-1.5419-1.2402-2.0385-4.8723.8202-6.5047.0539-.0147.10491-.0213.15322-.0204zm10.163 4.9059a3.8512 3.5513 0 0 1 3.739 3.5498 3.8512 3.5513 0 0 1 -7.7024 0 3.8512 3.5513 0 0 1 3.9633 -3.5498zm8.3998 1.3206c.30047-.008.58201.0767.8361.27302.68374.68137 1.0845 3.2465-.11214 4.7829-1.6485 2.2873-3.88 2.3763-4.7114 1.7394-.86922-.82049-.20583-3.3666.9861-4.7625 1.023-1.155 2.0985-2.0091 3.0014-2.0328zm-17.409.54368c.99272-.0204 2.2112.76417 3.1987 1.9097 1.1016 1.3273 1.6036 3.6586.68421 4.3461-.8697.52475-2.9815.30851-4.4826-1.8478-1.0124-1.8099-.88185-3.651-.17105-4.1919.23252-.14196.49281-.21057.7708-.21624zm9.2089 6.3528c1.5028.01 3.3278.55078 3.3316 1.2544.0256.72916-1.8828 2.3758-3.73 2.3441-1.913.0823-3.7887-1.5672-3.7641-2.1388-.0289-.838 2.3294-1.4929 3.8668-1.4541.0965-.004.19542-.006.29573-.006z" />
+</g>
+</svg>
+<span>Raspberry Pi</span>
+</a>
+<a class="link-with-icon" href="/umpcs/">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path d="M624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16zM576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512V48zm-64 272H128V64h384v256z" /></svg>
+<span>Device Ports</span>
+</a>
+<a class="link-with-icon" href="/faq/">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M504 256c0 136.997-111.043 248-248 248S8 392.997 8 256C8 119.083 119.043 8 256 8s248 111.083 248 248zM262.655 90c-54.497 0-89.255 22.957-116.549 63.758-3.536 5.286-2.353 12.415 2.715 16.258l34.699 26.31c5.205 3.947 12.621 3.008 16.665-2.122 17.864-22.658 30.113-35.797 57.303-35.797 20.429 0 45.698 13.148 45.698 32.958 0 14.976-12.363 22.667-32.534 33.976C247.128 238.528 216 254.941 216 296v4c0 6.627 5.373 12 12 12h56c6.627 0 12-5.373 12-12v-1.333c0-28.462 83.186-29.647 83.186-106.667 0-58.002-60.165-102-116.531-102zM256 338c-25.365 0-46 20.635-46 46 0 25.364 20.635 46 46 46s46-20.636 46-46c0-25.365-20.635-46-46-46z" /></svg>
+<span>Project FAQs</span>
+</a>
+</div>
+<div class="social-links">
+<a href="/rss.xml" rel="nofollow" title="View Blog RSS Feed"><svg width="32" height="32" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+<path d="m3 13v3c7.1799 0 13 5.8203 13 13h3c0-8.8368-7.1632-16-16-16zm0 6v3c3.866 0 7.0001 3.134 7.0001 7.0001h3c0-5.5228-4.4771-10-10-10zm2 6c-1.1045 0-2 .89541-2 2 0 1.1045.89541 2 2 2 1.1045 0 2-.89541 2-2 0-1.1045-.89541-2-2-2z" style="stroke-width:.69411" />
+<path d="m22.139 2.7616c-4.4183 0-8 3.5816-8 8 0 4.4181 3.5817 8 8 8 4.4182 0 8-3.5819 8-8 0-4.4184-3.5818-8-8-8zm1.3368 2.1632 3.1076 1.8368-3.1111 1.8368zm-1.3368.94444c.22792 0 .45078.01816.67014.048615v.68056c-.21814-.03529-.44156-.055556-.67014-.055556-1.777 0-3.2967 1.089-3.9201 2.6389l-.57639-.34028c.74846-1.7448 2.482-2.9722 4.4965-2.9722zm0 1.6632c.22822 0 .45129.02717.66667.072918v.69097c-.21255-.056828-.43592-.08681-.66667-.08681-1.167 0-2.1413.77548-2.4479 1.8403l-.59722-.35417c.44178-1.257 1.6419-2.1632 3.0451-2.1632zm3.9236.30903c.60851.81581.96875 1.8274.96875 2.9201 0 1.1097-.37402 2.1361-1 2.9583l-.57986-.34375c.56739-.71827.90625-1.625.90625-2.6146 0-.97103-.32668-1.8646-.875-2.5764zm-1.4479.85764c.46881.56074.75347 1.2792.75347 2.0625 0 .801-.29686 1.5379-.78472 2.1042l-.59375-.35069c.43402-.45581.70139-1.0699.70139-1.7535 0-.66412-.25119-1.2657-.66319-1.7187zm-8.1389.22569 3.1076 1.8368-3.1111 1.8368zm3.2153 2.5486c.30658 1.064 1.2809 1.8368 2.4479 1.8368.23079 0 .45406-.03097.66667-.08681v.69444c-.21538.04576-.43845.07292-.66667.07292-1.4043 0-2.6043-.90813-3.0451-2.1667zm-1.4722.86806c.62341 1.5498 2.1431 2.6389 3.9201 2.6389.22637 0 .44696-.01796.66319-.05208v.67708c-.21673.03015-.438.04861-.66319.04861-2.0146 0-3.7481-1.2274-4.4965-2.9722zm5.2535.64236 3.1076 1.8333-3.1111 1.8368z" style="stroke-width:.11111" />
+</svg>
+</a>
+<a href="https://launchpad.net/ubuntu-mate" rel="nofollow" title="Ubuntu MATE on Launchpad"><svg width="32" height="32" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><path d="m17.03 29.001 9.9325-5.6194-4.8012-2.7137-5.1311 2.8976m-2.0682 5.4356v-5.4356l-5.1261-2.9056-4.8024 2.7137m10.963-.8559 5.7598-3.2577.0024-6.5198-5.7574-3.262-5.7598 3.2577-.0024 6.5198 5.7573 3.262m12-.89548.0037-11.239-4.8024 2.7137v5.813m-19.198 2.7051 4.8012-2.7137v-5.8118l-4.7975-2.7137m18.161.96794 4.8024-2.7187-9.9325-5.6255v5.4356m-7.1944 2.9019 5.1274-2.8976v-5.4356l-9.9264 5.6131" /></svg>
+</a>
+<a href="https://github.com/ubuntu-mate/" rel="nofollow" title="Ubuntu MATE on GitHub"><svg id="Layer_1" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" height="32px" viewBox="0 0 32 32" width="32px" version="1.0" enable-background="new 0 0 32 32" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"><metadata id="metadata24"><rdf:RDF><cc:Work rdf:about><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title/></cc:Work></rdf:RDF></metadata><path id="path823" style="stroke-width:.048387;" d="m12.027 23.142c0 .09677-.11129.17419-.25162.17419-.15968.01452-.27097-.06291-.27097-.17419 0-.09677.11129-.17419.25161-.17419.14517-.01452.27097.06291.27097.17419zm-1.5048-.21774c-.03385.09678.06291.20807.20807.23710.1258.04838.27097 0 .3-.09678.02906-.09677-.06291-.20806-.20806-.25161-.1258-.03385-.26613.01452-.3.11129zm2.1387-.08226c-.14032.03385-.23710.1258-.22258.23710.01452.09677.14032.15968.28548.1258.14032-.03385.2371-.1258.22258-.22258-.01452-.09194-.14516-.15484-.28548-.14032zm3.184-18.542c-6.7113 0-11.845 5.0952-11.845 11.806 0 5.3661 3.3774 9.9581 8.2016 11.574.61936.11129.83710-.27097.83710-.58548 0-.3-.01452-1.9548-.01452-2.971 0 0-3.3871.72581-4.0984-1.4419 0 0-.55161-1.4081-1.3452-1.771 0 0-1.1081-.75968.07742-.74516 0 0 1.2048.09678 1.8677 1.2484 1.0597 1.8677 2.8355 1.3306 3.5274 1.0113.11129-.77420.42581-1.3113.77420-1.6306-2.7048-.3-5.4339-.69194-5.4339-5.3468 0-1.3306.36774-1.9984 1.1419-2.85-.1258-.31452-.53710-1.6113.1258-3.2855 1.0113-.31452 3.3387 1.3064 3.3387 1.3064.96774-.27097 2.0081-.41129 3.0387-.41129s2.071.14032 3.0387.41129 2.3274-1.6258 3.3387-1.3064c.66290 1.679.25162 2.971.12581 3.2855.77420.85645 1.2484 1.5242 1.2484 2.85 0 4.6694-2.85 5.0419-5.5548 5.3468.44516.38226.82258 1.1081.82258 2.2452 0 1.6306-.01452 3.6484-.01452 4.0452 0 .31452.22258.69677.83710.58548 4.8387-1.6065 8.1194-6.1984 8.1194-11.565 0-6.7113-5.4436-11.806-12.155-11.806zm-7.1418 16.689c-.06291.04838-.04838.15968.03385.25161.07742.07741.18871.11129.25161.04838.06291-.04838.04839-.15967-.03385-.25161-.07742-.07742-.18871-.11129-.25161-.04838zm-.52258-.39194c-.03385.06291.01452.14032.11129.18871.07741.04838.17419.03385.20806-.03385.03385-.06291-.01452-.14032-.11129-.18871-.09677-.029-.17419-.01452-.20806.03385zm1.5677 1.7226c-.07742.06291-.04838.20807.06291.3.11129.11129.25161.1258.31452.04838.06291-.06291.03385-.20807-.06291-.3-.10645-.11129-.25161-.1258-.31452-.04838zm-.55161-.71129c-.07742.04838-.07742.17419 0 .28548.07741.11129.20806.15968.27097.11129.07742-.06291.07742-.18871 0-.3-.06775-.11129-.19355-.15968-.27097-.09677z" /></svg>
+</a>
+<a href="https://twitter.com/ubuntu_mate" rel="nofollow" title="@ubuntu_mate on Twitter"><svg id="Layer_1" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" version="1.0" xml:space="preserve" height="32px" viewBox="0 0 32 32" width="32px" enable-background="new 0 0 32 32" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"><metadata id="metadata25"><rdf:RDF><cc:Work rdf:about><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title/></cc:Work></rdf:RDF></metadata><g id="g3"><path id="path7" d="m25.987 9.894c-.736.322-1.525.537-2.357.635.85-.498 1.5-1.289 1.806-2.231-.792.461-1.67.797-2.605.978-.748-.785-1.814-1.276-2.993-1.276-2.266 0-4.1 1.807-4.1 4.038 0 .314.036.625.104.922-3.407-.172-6.429-1.779-8.452-4.221-.352.597-.556 1.29-.556 2.032 0 1.399.726 2.635 1.824 3.36-.671-.022-1.304-.203-1.856-.506-.001.017-.001.034-.001.052 0 1.955 1.414 3.589 3.29 3.96-.343.09-.705.142-1.081.142-.264 0-.52-.024-.77-.072.52 1.604 2.034 2.771 3.828 2.805-1.398 1.082-3.168 1.728-5.089 1.728-.33 0-.658-.018-.979-.056 1.814 1.145 3.971 1.813 6.287 1.813 7.541 0 11.666-6.154 11.666-11.491 0-.173-.005-.35-.012-.521 0.8-.571 1.497-1.282 2.046-2.091z" /></g></svg>
+</a>
+<a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Fedxlinux%2Fedxlinux%2Farchive%2Frefs%2Fheads%2Fmain.zip%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR0fFkO7-nWdlH3QZn6lJIoeIj-Rq23U34JO-tyq79lPZfKS_6HoeILiYkI_aem_KJUl2gH7Jwxlk-XvUJNazw&h=AT0jt8YJ6yEIPiyCSvkW92lDJ7AEPpckDRw2v-CA-v9klZOiNMoRwJBB7k9K7wN2x9ZocM9nxMz7TrqPLwnMoXHCEZ9tnmlZ6E_zfvAw3xz3YjanaT-Dp-6Xcw8P&__tn__=-UK-R&c[0]=AT0Yw6K3TUEzBqzfB9_tV751idqLGQZ7tO-odGujjhIONWPa0n_f-bdGoQXyDJYBHlBjMw3tpaY0fhW3JYVU-5Rm7CtIj6NUB0kntDD_NjFiG7wSFFsfVxvNe5Zp4_6-Fq6lDGSly9klVV32IGaLeR9fSMxmmHxqMYRp0x1YUYS9_UFzw4M" rel="nofollow" title="Ubuntu MATE on Matrix"><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 520 520" style="enable-background:new 0 0 520 520;" xml:space="preserve"><path d="M13.7,11.9v496.2h35.7V520H0V0h49.4v11.9H13.7z" /><path d="M166.3,169.2v25.1h0.7c6.7-9.6,14.8-17,24.2-22.2c9.4-5.3,20.3-7.9,32.5-7.9c11.7,0,22.4,2.3,32.1,6.8  c9.7,4.5,17,12.6,22.1,24c5.5-8.1,13-15.3,22.4-21.5c9.4-6.2,20.6-9.3,33.5-9.3c9.8,0,18.9,1.2,27.3,3.6c8.4,2.4,15.5,6.2,21.5,11.5  c6,5.3,10.6,12.1,14,20.6c3.3,8.5,5,18.7,5,30.7v124.1h-50.9V249.6c0-6.2-0.2-12.1-0.7-17.6c-0.5-5.5-1.8-10.3-3.9-14.3  c-2.2-4.1-5.3-7.3-9.5-9.7c-4.2-2.4-9.9-3.6-17-3.6c-7.2,0-13,1.4-17.4,4.1c-4.4,2.8-7.9,6.3-10.4,10.8c-2.5,4.4-4.2,9.4-5,15.1  c-0.8,5.6-1.3,11.3-1.3,17v103.3h-50.9v-104c0-5.5-0.1-10.9-0.4-16.3c-0.2-5.4-1.3-10.3-3.1-14.9c-1.8-4.5-4.8-8.2-9-10.9  c-4.2-2.7-10.3-4.1-18.5-4.1c-2.4,0-5.6,0.5-9.5,1.6c-3.9,1.1-7.8,3.1-11.5,6.1c-3.7,3-6.9,7.3-9.5,12.9c-2.6,5.6-3.9,13-3.9,22.1  v107.6h-50.9V169.2H166.3z" /><path d="M506.3,508.1V11.9h-35.7V0H520v520h-49.4v-11.9H506.3z" /></svg>
+</a>
+</div>
+<div class="footer-links">
+<a href="https://github.com/ubuntu-mate/ubuntu-mate.org/edit/master/pages/faq-downloads.md" class="external" rel="nofollow">
+<span>Improve this page</span>
+<svg xmlns="https://drive.google.com/drive/folders/1kBzVtzLuh0dkXtoi-G9TaY-JYnJPA18E?usp=drive_link" viewBox="0 0 576 512"><path d="M576 24v127.984c0 21.461-25.96 31.98-40.971 16.971l-35.707-35.709-243.523 243.523c-9.373 9.373-24.568 9.373-33.941 0l-22.627-22.627c-9.373-9.373-9.373-24.569 0-33.941L442.756 76.676l-35.703-35.705C391.982 25.9 402.656 0 424.024 0H552c13.255 0 24 10.745 24 24zM407.029 270.794l-16 16A23.999 23.999 0 0 0 384 303.765V448H64V128h264a24.003 24.003 0 0 0 16.97-7.029l16-16C376.089 89.851 365.381 64 344 64H48C21.49 64 0 85.49 0 112v352c0 26.51 21.49 48 48 48h352c26.51 0 48-21.49 48-48V287.764c0-21.382-25.852-32.09-40.971-16.97z" /></svg>
+</a>
+<a href="https://drive.google.com/drive/folders/1BgBDdwZUU465hmq0LtgK-lTM5Y3buOU6?usp=drive_link" class="external" rel="nofollow">
+<span>Translate this site</span>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M576 24v127.984c0 21.461-25.96 31.98-40.971 16.971l-35.707-35.709-243.523 243.523c-9.373 9.373-24.568 9.373-33.941 0l-22.627-22.627c-9.373-9.373-9.373-24.569 0-33.941L442.756 76.676l-35.703-35.705C391.982 25.9 402.656 0 424.024 0H552c13.255 0 24 10.745 24 24zM407.029 270.794l-16 16A23.999 23.999 0 0 0 384 303.765V448H64V128h264a24.003 24.003 0 0 0 16.97-7.029l16-16C376.089 89.851 365.381 64 344 64H48C21.49 64 0 85.49 0 112v352c0 26.51 21.49 48 48 48h352c26.51 0 48-21.49 48-48V287.764c0-21.382-25.852-32.09-40.971-16.97z" /></svg>
+</a>
+<a href="https://github.com/oliveiraezequiel/fostonlinux-e-edxlinux/commits/master" class="external" rel="nofollow">
+<span>Recent Changes</span>
+<svg xmlns="https://github.com/oliveiraezequiel/fostonlinux-e-edxlinux" viewBox="0 0 576 512"><path d="M576 24v127.984c0 21.461-25.96 31.98-40.971 16.971l-35.707-35.709-243.523 243.523c-9.373 9.373-24.568 9.373-33.941 0l-22.627-22.627c-9.373-9.373-9.373-24.569 0-33.941L442.756 76.676l-35.703-35.705C391.982 25.9 402.656 0 424.024 0H552c13.255 0 24 10.745 24 24zM407.029 270.794l-16 16A23.999 23.999 0 0 0 384 303.765V448H64V128h264a24.003 24.003 0 0 0 16.97-7.029l16-16C376.089 89.851 365.381 64 344 64H48C21.49 64 0 85.49 0 112v352c0 26.51 21.49 48 48 48h352c26.51 0 48-21.49 48-48V287.764c0-21.382-25.852-32.09-40.971-16.97z" /></svg>
+</a>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script src="/oliveiraezequiel/fostonlinux-e-edxlinux.js"></script>
+</body>
+</html>
+

@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Cubic project files : Cubic</title>
+    <link rel="apple-touch-icon" sizes="180x180" href="/@@/apple-touch-icon.png?v=2022" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/@@/favicon-32x32.png?v=2022" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/@@/favicon-16x16.png?v=2022" />
+    <link rel="manifest" href="/@@/site.webmanifest?v=2022" />
+    <link rel="mask-icon" href="/@@/safari-pinned-tab.svg?v=2022" color="#e9531f" />
+    <link rel="shortcut icon" href="/@@/favicon.ico?v=2022" />
+    <meta name="msapplication-TileColor" content="#da532c" />
+    <meta name="msapplication-config" content="/@@/browserconfig.xml?v=2022" />
+    <meta name="theme-color" content="#ffffff" />
+    
+    
+    
+
+    
+  
+  <link type="text/css" rel="stylesheet" media="screen, print" href="/+icing/revbbfa2351d9d6a9ddfe262109428f7bf5516e65d1/combo.css" />
+
+
+    
+
+    
+      
+      
+    
+
+    
+    
+      <meta property="og:title" content="Cubic project files : Cubic" />
+      <meta property="og:type" content="website" />
+      <meta property="og:image" content="/@@/launchpad-og-image.png" />
+      <meta property="og:url" content="https://launchpad.net/cubic/+download" />
+      <meta property="og:site_name" content="Launchpad" />
+    
+
+    
+
+    
+  
+
+  
+  
+  <script type="text/javascript">
+    var LP = {
+        cache: {},
+        links: {}
+    };
+  </script>
+
+  
+
+  <script type="text/javascript">var cookie_scope = '; Path=/; Secure; Domain=.launchpad.net';</script>
+
+   <script type="text/javascript" src="/+combo/revbbfa2351d9d6a9ddfe262109428f7bf5516e65d1/?yui/yui/yui-min.js&amp;lp/meta.js&amp;yui/loader/loader-min.js"></script>
+   <script type="text/javascript">
+        var raw = null;
+        if (LP.devmode) {
+           raw = 'raw';
+        }
+        YUI.GlobalConfig = {
+            combine: true,
+            comboBase: '/+combo/revbbfa2351d9d6a9ddfe262109428f7bf5516e65d1/?',
+            root: 'yui/',
+            filter: raw,
+            debug: false,
+            fetchCSS: false,
+            maxURLLength: 2000,
+            groups: {
+                lp: {
+                    combine: true,
+                    base: '/+combo/revbbfa2351d9d6a9ddfe262109428f7bf5516e65d1/?lp/',
+                    comboBase: '/+combo/revbbfa2351d9d6a9ddfe262109428f7bf5516e65d1/?',
+                    root: 'lp/',
+                    // comes from including lp/meta.js
+                    modules: LP_MODULES,
+                    fetchCSS: false
+                }
+            }
+        }</script>
+
+  <script type="text/javascript">
+      // we need this to create a single YUI instance all events and code
+      // talks across. All instances of YUI().use should be based off of
+      // LPJS instead.
+      var LPJS = new YUI();
+  </script>
+
+
+
+    <script id="base-layout-load-scripts" type="text/javascript">
+        //<![CDATA[
+        LPJS.use('base', 'node', 'console', 'event',
+            'oop', 'lp', 'lp.app.foldables','lp.app.sorttable',
+            'lp.app.inlinehelp', 'lp.app.links',
+            'lp.bugs.bugtask_index', 'lp.bugs.subscribers',
+            'lp.app.ellipsis', 'lp.code.branchmergeproposal.diff',
+            'lp.views.global',
+             function(Y) {
+
+            Y.on("domready", function () {
+                var global_view = new Y.lp.views.Global();
+                global_view.render();
+
+                Y.lp.app.sorttable.SortTable.init();
+                Y.lp.app.inlinehelp.init_help();
+                Y.lp.activate_collapsibles();
+                Y.lp.app.foldables.activate();
+                Y.lp.app.links.check_valid_lp_links();
+            });
+
+            Y.on('lp:context:web_link:changed', function(e) {
+                  window.location = e.new_value;
+            });
+        });
+        //]]>
+    </script>
+    <script id="base-helper-functions" type="text/javascript">
+         //<![CDATA[
+        // This code is pulled from lp.js that needs to be available on every
+        // request. Pulling here to get it outside the scope of the YUI block.
+        function setFocusByName(name) {
+            // Focus the first element matching the given name which can be focused.
+            var nodes = document.getElementsByName(name);
+            var i, node;
+            for (i = 0; i < nodes.length; i++) {
+                node = nodes[i];
+                if (node.focus) {
+                    try {
+                        // Trying to focus a hidden element throws an error in IE8.
+                        if (node.offsetHeight !== 0) {
+                            node.focus();
+                        }
+                    } catch (e) {
+                        LPJS.use('console', function(Y) {
+                            Y.log('In setFocusByName(<' +
+                                node.tagName + ' type=' + node.type + '>): ' + e);
+                        });
+                    }
+                    break;
+                }
+            }
+        }
+
+        function selectWidget(widget_name, event) {
+          if (event && (event.keyCode === 9 || event.keyCode === 13)) {
+              // Avoid firing if user is tabbing through or simply pressing
+              // enter to submit the form.
+              return;
+          }
+          document.getElementById(widget_name).checked = true;
+        }
+        //]]>
+    </script>
+
+    
+      
+    
+  </head>
+
+  <body id="document" itemscope="" itemtype="http://schema.org/WebPage" class="tab-overview
+      main_only
+      public
+      yui3-skin-sam">
+          
+          
+    <div class="yui-d0">
+      <div id="locationbar" class="login-logout">
+        
+
+<div id="logincontrol"><a href="https://launchpad.net/cubic/+download/+login">Log in / Register</a></div>
+
+
+
+      </div><!--id="locationbar"-->
+
+      <div id="watermark" class="watermark-apps-portlet">
+        <div>
+          <a href="https://launchpad.net/cubic"><img alt="" width="64" height="64" src="https://launchpadlibrarian.net/573946811/cubic.png" /></a>
+        </div>
+        <div class="wide">
+          <h2 id="watermark-heading"><a href="https://launchpad.net/cubic">Cubic</a></h2>
+        </div>
+        
+  <!-- Application Menu -->
+  <ul class="facetmenu">
+    
+      <li class="overview active"><a href="https://launchpad.net/cubic">Overview</a></li>
+      
+      
+    
+    
+      
+      <li class="branches"><a href="https://code.launchpad.net/cubic">Code</a></li>
+      
+    
+    
+      
+      <li class="bugs"><a href="https://bugs.launchpad.net/cubic">Bugs</a></li>
+      
+    
+    
+      
+      <li class="specifications"><a href="https://blueprints.launchpad.net/cubic">Blueprints</a></li>
+      
+    
+    
+      
+      <li class="translations"><a href="https://translations.launchpad.net/cubic">Translations</a></li>
+      
+    
+    
+      
+      <li class="answers"><a href="https://answers.launchpad.net/cubic">Answers</a></li>
+      
+    
+  </ul>
+
+      </div>
+
+      
+        <div id="maincontent" class="yui-main">
+          <div class="yui-b" dir="ltr">
+            <div class="context-publication">
+              <h1>Download project files</h1>
+              
+
+              <div id="registration" class="registering">
+                
+              </div>
+            </div>
+
+            
+            <div id="request-notifications">
+              
+            </div>
+
+            
+              <div>
+
+  
+  <br />
+
+  <form id="project-downloads" method="POST" action="https://launchpad.net/cubic/+download">
+
+    <div id="no-downloads">
+      <p>No download files exist for this project.</p>
+      <p>You might want to check
+        <a href="https://code.launchpad.net/cubic">this project's Bazaar
+          branches</a>
+        <span>or its
+          <a href="https://github.com/PJ-Singh-001/Cubic">home page</a>
+        </span>.
+      </p>
+    </div>
+
+    <div class="freeform-batch">
+    
+    </div>
+    <div id="admin-links">
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+    </div>
+    
+
+  </form>
+</div>
+            
+            
+          </div><!-- yui-b -->
+        </div><!-- yui-main -->
+
+        
+          <!-- yui-b side -->
+        
+      <!-- yui-t4 -->
+
+      
+  <div id="footer" class="footer">
+    <div class="lp-arcana">
+        <div class="lp-branding">
+          <a href="https://launchpad.net/"><img src="/@@/launchpad-footer-logo.svg" alt="Launchpad" width="65" height="18" /></a>
+          &nbsp;&bull;&nbsp;
+          <a href="https://launchpad.net/+tour">Take the tour</a>
+          &nbsp;&bull;&nbsp;
+          <a href="https://help.launchpad.net/">Read the guide</a>
+          &nbsp;
+          <form id="globalsearch" method="get" accept-charset="UTF-8" action="https://launchpad.net/+search">
+            <input type="search" id="search-text" name="field.text" />
+            <input type="image" src="/@@/search" style="vertical-align:5%" alt="Search Launchpad" />
+          </form>
+        </div>
+        
+  
+
+    </div>
+
+    <div class="colophon">
+      &copy; 2004
+      <a href="http://canonical.com/">Canonical&nbsp;Ltd.</a>
+      &nbsp;&bull;&nbsp;
+      <a href="https://launchpad.net/legal">Terms of use</a>
+      &nbsp;&bull;&nbsp;
+      <a href="https://www.ubuntu.com/legal/dataprivacy">Data privacy</a>
+      &nbsp;&bull;&nbsp;
+      <a href="/feedback">Contact Launchpad Support</a>
+      
+      &nbsp;&bull;&nbsp;
+      <a href="http://blog.launchpad.net/">Blog</a>
+      
+	&nbsp;&bull;&nbsp;
+	<a href="https://canonical.com/careers">Careers</a>
+      
+      &nbsp;&bull;&nbsp;
+      <a href="https://ubuntu.social/@launchpadstatus">System status</a>
+      <span id="lp-version">
+      &nbsp;&bull;&nbsp;
+        bbfa235
+        
+        
+        (<a href="https://dev.launchpad.net/">Get the code!</a>)
+      </span>
+    </div>
+  </div>
+
+    </div><!-- yui-d0-->
+
+    
+  
+  
+  <script id="json-cache-script">LP.cache = {"related_features": {}, "context": {"self_link": "https://launchpad.net/api/devel/cubic", "web_link": "https://launchpad.net/cubic", "resource_type_link": "https://launchpad.net/api/devel/#project", "translations_usage": "Launchpad", "official_answers": true, "official_blueprints": true, "official_codehosting": true, "official_bugs": true, "information_type": "Public", "active": true, "all_specifications_collection_link": "https://launchpad.net/api/devel/cubic/all_specifications", "valid_specifications_collection_link": "https://launchpad.net/api/devel/cubic/valid_specifications", "bug_reporting_guidelines": null, "bug_reported_acknowledgement": null, "official_bug_tags": [], "recipes_collection_link": "https://launchpad.net/api/devel/cubic/recipes", "webhooks_collection_link": "https://launchpad.net/api/devel/cubic/webhooks", "bug_supervisor_link": "https://launchpad.net/api/devel/~cubic-wizard", "active_milestones_collection_link": "https://launchpad.net/api/devel/cubic/active_milestones", "all_milestones_collection_link": "https://launchpad.net/api/devel/cubic/all_milestones", "translationgroup_link": "https://launchpad.net/api/devel/+groups/launchpad-translators", "translationpermission": "Open", "qualifies_for_free_hosting": true, "reviewer_whiteboard": "tag:launchpad.net:2008:redacted", "is_permitted": "tag:launchpad.net:2008:redacted", "project_reviewed": "tag:launchpad.net:2008:redacted", "license_approved": "tag:launchpad.net:2008:redacted", "private": false, "display_name": "Cubic", "icon_link": "https://launchpad.net/api/devel/cubic/icon", "logo_link": "https://launchpad.net/api/devel/cubic/logo", "name": "cubic", "owner_link": "https://launchpad.net/api/devel/~cubic-wizard", "project_group_link": null, "title": "Cubic", "registrant_link": "https://launchpad.net/api/devel/~cubic-wizard", "driver_link": "https://launchpad.net/api/devel/~cubic-wizard", "summary": "Cubic (Custom Ubuntu ISO Creator) is a GUI wizard to create a customized Live ISO image for Ubuntu and Debian \u2020 based distributions.\n\nCubic permits effortless navigation through the ISO customization steps and features an integrated virtual command line environment to customize the Linux file system. You can create new customization projects or modify existing projects. Important parameters are dynamically populated with intelligent defaults to simplify the customization process.\n\nCubic runs on distributions based on Ubuntu 18.04.5 Bionic and above.\n\nCubic Website:\n    https://github.com/PJ-Singh-001/Cubic\n\nCubic Wiki:\n    https://github.com/PJ-Singh-001/Cubic/wiki\n\nQuestions \u0026 Answers:\n    https://github.com/PJ-Singh-001/Cubic/issues\n\nBug Reports:\n    https://github.com/PJ-Singh-001/Cubic/issues\n\nInstall Cubic:\n    $ sudo apt-add-repository universe\n    $ sudo apt-add-repository ppa:cubic-wizard/release\n    $ sudo apt update\n    $ sudo apt install --no-install-recommends cubic\n\n\u2020 Support for Debian was added in Cubic version 2022.11.73.", "description": null, "date_created": "2015-10-25T01:47:07.067216+00:00", "homepage_url": "https://github.com/PJ-Singh-001/Cubic", "wiki_url": "https://github.com/PJ-Singh-001/Cubic/wiki", "screenshots_url": "https://github.com/PJ-Singh-001/Cubic/wiki", "download_url": "https://github.com/PJ-Singh-001/Cubic/wiki/Install-Cubic", "programming_language": "Python3.7", "sourceforge_project": null, "freshmeat_project": null, "brand_link": "https://launchpad.net/api/devel/cubic/brand", "branch_sharing_policy": "Public", "bug_sharing_policy": "Public", "specification_sharing_policy": "Public", "licenses": ["GNU GPL v3"], "license_info": null, "bug_tracker_link": null, "series_collection_link": "https://launchpad.net/api/devel/cubic/series", "development_focus_link": "https://launchpad.net/api/devel/cubic/release", "releases_collection_link": "https://launchpad.net/api/devel/cubic/releases", "translation_focus_link": "https://launchpad.net/api/devel/obsolete-junk/cubic-trunk-20151025-014707", "commercial_subscription_link": null, "commercial_subscription_is_due": false, "remote_product": null, "vcs": "Bazaar", "http_etag": "\"1d64ff6185d511440c3a41f69fbe40eeabbd1b3a-f04563b5e7b0148f8695b92efcabf2a6a12b9635\""}};</script>
+
+    
+  
+
+    
+  </body>
+
+
+  <!--
+    Facet name: overview
+    Page type: main_only
+    Has global search: True
+    Has application tabs: True
+    Has side portlets: False
+
+    At least 21 queries/external actions issued in 0.20 seconds
+
+    Features: {'profiling.enabled': None, 'hard_timeout': '5000', 'js.yui_version': None, 'app.mainsite_only.canonical_url': None, 'app.maintenance_message': None, 'baselayout.careers_link.disabled': None, 'visible_render_time': None}
+
+    rbbfa235
+
+    -->
+
+</html>
+

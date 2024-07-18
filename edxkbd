@@ -1,0 +1,36 @@
+#!/bin/bash
+
+# Movimento do mouse em pixels
+MOVE_STEP=10
+
+# Função para mover o mouse
+move_mouse() {
+  xdotool mousemove_relative -- $1 $2
+}
+
+# Função para clicar com o mouse
+click_mouse() {
+  xdotool click $1
+}
+
+# Mapeamento das teclas para ações específicas
+while true; do
+  read -rsn1 input
+  case $input in
+    # Teclas de seta para mover o mouse
+    A) move_mouse 0 -$MOVE_STEP ;;  # Cima
+    B) move_mouse 0 $MOVE_STEP ;;   # Baixo
+    D) move_mouse -$MOVE_STEP 0 ;;  # Esquerda
+    C) move_mouse $MOVE_STEP 0 ;;   # Direita
+
+    # Tecla "5" para clicar
+    5) click_mouse 1 ;;             # Clique com o botão esquerdo
+
+    # Tecla "0" para clicar com o botão direito
+    0) click_mouse 3 ;;             # Clique com o botão direito
+
+    # Sair do script com a tecla "q"
+    q) exit 0 ;;
+  esac
+done
+

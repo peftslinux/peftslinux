@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EdxLinux e FostonLinux</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1rem;
+            text-align: center;
+        }
+        .container {
+            padding: 2rem;
+        }
+        .distro {
+            background: #fff;
+            margin-bottom: 1rem;
+            padding: 1rem;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #333;
+        }
+        code {
+            background: #eaeaea;
+            padding: 0.2rem 0.4rem;
+            border-radius: 3px;
+        }
+        .script {
+            background: #272822;
+            color: #f8f8f2;
+            padding: 1rem;
+            border-radius: 5px;
+            overflow-x: auto;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Distribuições EdxLinux e FostonLinux</h1>
+    </header>
+    <div class="container">
+        <div class="distro">
+            <h2>EdxLinux</h2>
+            <p>EdxLinux é uma distribuição Linux voltada para a educação, oferecendo um ambiente rico em recursos educacionais e ferramentas de aprendizado.</p>
+        </div>
+        <div class="distro">
+            <h2>FostonLinux</h2>
+            <p>FostonLinux é uma distribuição Linux focada em desempenho e estabilidade, ideal para usuários avançados e desenvolvedores.</p>
+        </div>
+        <div class="distro">
+            <h2>Script de Instalação do Cubic</h2>
+            <p>Para instalar o Cubic (Custom Ubuntu ISO Creator) em qualquer uma das distribuições acima, execute o seguinte script:</p>
+            <div class="script">
+                <pre><code>#!/bin/bash
+# Atualizar a lista de pacotes
+sudo apt update
+
+# Instalar dependências necessárias
+sudo apt install -y python3-pyqt5 python3-pyqt5.qtsvg genisoimage
+
+# Baixar o Cubic
+wget https://launchpad.net/cubic/+download
+
+# Instalar o Cubic
+sudo dpkg -i cubic*.deb
+
+# Corrigir dependências
+sudo apt install -f
+
+# Verificar a instalação
+cubic --version</code></pre>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+

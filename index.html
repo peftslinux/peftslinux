@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>edxLinux e fostonLinux</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 0;
+        }
+        header {
+            text-align: center;
+            padding: 10px;
+            background-color: #f8f8f8;
+            border-bottom: 1px solid #ddd;
+        }
+        section {
+            margin: 20px 0;
+        }
+        code {
+            background-color: #f4f4f4;
+            padding: 5px;
+            display: block;
+            margin: 10px 0;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #f8f8f8;
+            border-top: 1px solid #ddd;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>edxLinux e fostonLinux</h1>
+</header>
+
+<section>
+    <h2>Histórico de chats</h2>
+    <ul>
+        <li><strong>GitHub repo sobre pacotes Debian</strong></li>
+        <li><strong>Novo chat</strong></li>
+        <li><strong>Criar Comando `edxfosinst` Instalar `.deb`</strong></li>
+        <li><strong>Baixar programas com link</strong></li>
+        <li><strong>Baixar programas do Ubuntu</strong></li>
+        <li><strong>Create Download Links</strong></li>
+        <li><strong>Criar Pacote Instalação Programas</strong></li>
+        <li><strong>Create Cloud "Fosedx-nv"</strong></li>
+        <li><strong>Criar Página HTML Distribuições</strong></li>
+        <li><strong>Instalação Automática do Cubic</strong></li>
+        <li><strong>Criar página HTML instalação.</strong></li>
+        <li><strong>Novo chat</strong></li>
+        <li><strong>Instalação de Pacotes edX/Foston</strong></li>
+        <li><strong>Setup Ubuntu Security Repository</strong></li>
+        <li><strong>Criar arquivo sources.list.</strong></li>
+        <li><strong>Criar Link de Download</strong></li>
+        <li><strong>Script Atualização Foston Linux</strong></li>
+        <li><strong>Atualizar sistemas Linux simples</strong></li>
+        <li><strong>Download Files to edx</strong></li>
+        <li><strong>Create edx/boot/syslinux.cfg</strong></li>
+        <li><strong>Baixar Arquivos com Wget</strong></li>
+        <li><strong>Criar Distro Linux EDX</strong></li>
+        <li><strong>Criar Script Edxsavechanges</strong></li>
+        <li><strong>Trocar Ambiente Gráfico Terminal</strong></li>
+        <li><strong>Criar Instalador EDX-Linux</strong></li>
+        <li><strong>Instalação do Edxlinux</strong></li>
+        <li><strong>Abra Teclado com Botões</strong></li>
+        <li><strong>Controlar o Mouse com o Teclado</strong></li>
+        <li><strong>Fazer upgrade do plano</strong></li>
+    </ul>
+</section>
+
+<section>
+    <h2>Script para instalar pacotes</h2>
+    <p>Para baixar e instalar programas usando o comando <code>edxfosinst</code>, crie um arquivo de script chamado <code>install_programs.sh</code> com o seguinte conteúdo:</p>
+    <code>
+        #!/bin/bash<br>
+        <br>
+        # Lista de URLs para pacotes .deb<br>
+        packages=(<br>
+            "URL_DO_PACOTE_1"<br>
+            "URL_DO_PACOTE_2"<br>
+            "URL_DO_PACOTE_3"<br>
+        )<br>
+        <br>
+        # Função para baixar e instalar pacotes<br>
+        install_package() {<br>
+            url=$1<br>
+            filename=$(basename "$url")<br>
+            wget "$url" -O "/tmp/$filename"<br>
+            sudo dpkg -i "/tmp/$filename"<br>
+            sudo apt-get install -f -y<br>
+            rm "/tmp/$filename"<br>
+        }<br>
+        <br>
+        # Instalar cada pacote da lista<br>
+        for package in "${packages[@]}"; do<br>
+            install_package "$package"<br>
+        done<br>
+        <br>
+        echo "Todos os pacotes foram instalados com sucesso!"<br>
+    </code>
+    <p>Depois, torne o script executável e execute-o:</p>
+    <code>
+        chmod +x install_programs.sh<br>
+        ./install_programs.sh<br>
+    </code>
+</section>
+
+<footer>
+    <p>Para mais informações, visite o <a href="https://github.com/oliveiraezequiel/fostonlinux-e-edxlinux" target="_blank">repositório no GitHub</a>.</p>
+</footer>
+
+</body>
+</html>
+
