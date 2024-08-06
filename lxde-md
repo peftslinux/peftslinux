@@ -1,0 +1,17 @@
+tar -xzvf lxde-md.tar.gz
+
+
+cd lxde-md
+
+
+less README
+
+
+sudo ./lxde-md.sh
+
+
+./configure
+make
+sudo make install
+
+
